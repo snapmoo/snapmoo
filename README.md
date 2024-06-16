@@ -33,5 +33,12 @@
 ## Get App
 [![Download SnapMoo](https://img.shields.io/badge/Download%20SnapMoo-blue?style=for-the-badge)](https://media.suara.com/pictures/653x366/2024/04/29/87806-hantu-terseram-di-film-horor-imdb.jpg)
 
+## Machine Learning
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/snapmoo/SnapMoo-ML) 
+## Cloud Computing
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/snapmoo/SnapMoo-CC)
+## Mobile Development
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/snapmoo/SnapMoo-MD) 
+
 
 
