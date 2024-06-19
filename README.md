@@ -30,7 +30,13 @@
 ## Demo APP
 
 ## Get App
-[![Download SnapMoo](https://img.shields.io/badge/Download%20SnapMoo-blue?style=for-the-badge)](https://media.suara.com/pictures/653x366/2024/04/29/87806-hantu-terseram-di-film-horor-imdb.jpg)
+[![Download SnapMoo](https://img.shields.io/badge/Download%20SnapMoo-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1Zthl7JaFRMVFvknNw-2bApWtGzPPNjGt)
+
+
+<div align = "center">
+<h1>Learning Path</h1>
+</div>
+
 
 ## Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/snapmoo/SnapMoo-ML) 
