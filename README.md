@@ -4,9 +4,15 @@
   <img src="https://github.com/snapmoo/snapmoo/blob/main/assets/Mobile%20Development/icon_stroke.png" alt="Logo" width="200">
   <h3>Your FMD Detection Partner</h3>
   <br>
+  
+<!--   <h1>Presented by</h1> -->
+  <img src="https://github.com/snapmoo/snapmoo/blob/main/assets/mockup-app.png" alt="SnapMoo Team" width="100%">
+  <br>
+  <br>
   <h1>Presented by</h1>
   <img src="https://github.com/snapmoo/snapmoo/blob/main/assets/team-member.png" alt="SnapMoo Team" width="100%">
 </div>
+<br>
 <br>
 <h2>Overview</h2>
 <p1>SnapMoo is an application that can help farmers, especially cattle, to detect Foot and Mouth Disease (FMD), and provide appropriate treatment advice. This application contains information about FMD, a scan feature for FMD calcification, and also suggestions for proper and fast treatment via mobile phone.</p1>
