@@ -15,7 +15,7 @@
 <br>
 <br>
 <h2>Overview</h2>
-<p1>SnapMoo is an application that can help farmers, especially cattle, to detect Foot and Mouth Disease (FMD), and provide appropriate treatment advice. This application contains information about FMD, a scan feature for FMD calcification, and also suggestions for proper and fast treatment via mobile phone.</p1>
+<p1>SnapMoo is an application that can help farmers, especially cattle, to detect Foot and Mouth Disease (FMD), and provide appropriate treatment advice. This application contains information about FMD, a scan feature for FMD classification, and also suggestions for proper and fast treatment via mobile phone.</p1>
 
 
 
