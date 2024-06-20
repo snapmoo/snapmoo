@@ -15,7 +15,7 @@
 <br>
 <br>
 <h2>Overview</h2>
-<p1>SnapMoo is an application that can help farmers, especially cattle, to detect Foot and Mouth Disease (FMD), and provide appropriate treatment advice. This application contains information about FMD, a scan feature for FMD classification, and also suggestions for proper and fast treatment via mobile phone.</p1>
+<p1>SnapMoo is an application that can help breeders, especially cattle, to detect Foot and Mouth Disease (FMD), and provide appropriate treatment advice. This application contains information about FMD, a scan feature for FMD classification, and also suggestions for proper and fast treatment via mobile phone.</p1>
 
 
 
@@ -30,7 +30,7 @@
 ## Demo APP
 
 ## Get App
-[![Download SnapMoo](https://img.shields.io/badge/Download%20SnapMoo-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1Zthl7JaFRMVFvknNw-2bApWtGzPPNjGt)
+[![Download SnapMoo](https://img.shields.io/badge/Download%20SnapMoo-blue?style=for-the-badge)](https://github.com/snapmoo/SnapMoo-MD/releases/download/v1.0.0/app-debug.apk)
 
 
 <div align = "center">
